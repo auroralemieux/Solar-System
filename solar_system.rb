@@ -92,6 +92,7 @@ class SolarSystem
   # user is greeted and then goes to pick a planet
   def welcome
     puts "Welcome to my Alternative Planet Facts program!"
+    puts "This is a useful tool for wasting time!"
     pick_a_planet
   end
 
